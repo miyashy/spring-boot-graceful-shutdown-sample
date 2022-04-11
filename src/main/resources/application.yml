@@ -7,5 +7,3 @@ endpoints:
 graceful:
   shutdown:
     enabled: true
-    wait: 1
-    timeout: 5
